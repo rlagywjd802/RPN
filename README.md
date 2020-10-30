@@ -58,6 +58,14 @@ $ python create_dataset_pb.py --problem pb_cook_meal_3i_2d_3m_iter \
     --num_episodes 1 --num_tasks -1 --seed 1 \
     --teleport --num_chunks 10 --num_workers 10
 ```
+
+For display, run:
+```
+$ python create_dataset_pb.py --problem pb_cook_meal_3i_2d_3m_iter \
+    --dataset data/pb_cook_3i_2d_3m_1_s1.group \
+    --num_episodes 1 --num_tasks -1 --seed 1 \
+    --teleport --num_chunks 10 --num_workers 1 --display
+```
  
 ### Train
 To train our full RPN model, run:
