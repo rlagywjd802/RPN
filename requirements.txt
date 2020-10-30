@@ -5,4 +5,5 @@ h5py==2.7.1
 future
 deepdish
 tensorboardX
+Pillow
 ./gym-minigrid
