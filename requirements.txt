@@ -6,4 +6,5 @@ future
 deepdish
 tensorboardX
 Pillow
+networkx
 ./gym-minigrid
