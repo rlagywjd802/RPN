@@ -4,3 +4,5 @@ temp
 visualizations
 statistics
 gurobi.log
+rpn/checkpoints
+rpn/data
