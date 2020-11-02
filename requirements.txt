@@ -7,4 +7,5 @@ deepdish
 tensorboardX
 Pillow
 networkx
+tensorflow
 ./gym-minigrid
